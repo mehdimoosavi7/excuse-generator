@@ -3,6 +3,10 @@
 
 <br/>  
 
+## Live view
+<a href="https://mehdimoosavi7.github.io/excuse-generator" target="_blank">
+  https://mehdimoosavi7.github.io/excuse-generator
+</a>
 
 ## Project uses  
 <table><tr><td valign="top">
