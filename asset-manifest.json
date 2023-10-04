@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/excuse-generator/static/css/main.c3563602.css",
+    "main.js": "/excuse-generator/static/js/main.ed6b5f7c.js",
+    "static/js/496.972788e7.chunk.js": "/excuse-generator/static/js/496.972788e7.chunk.js",
+    "index.html": "/excuse-generator/index.html",
+    "main.c3563602.css.map": "/excuse-generator/static/css/main.c3563602.css.map",
+    "main.ed6b5f7c.js.map": "/excuse-generator/static/js/main.ed6b5f7c.js.map",
+    "496.972788e7.chunk.js.map": "/excuse-generator/static/js/496.972788e7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c3563602.css",
+    "static/js/main.ed6b5f7c.js"
+  ]
+}
